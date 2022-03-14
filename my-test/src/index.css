@@ -1,0 +1,47 @@
+.Select {
+  font-size: 18px;
+  display: flex;
+  width: 500px;
+  height: 1500px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+label {
+  display: flex;
+}
+
+input {
+  margin-bottom: 15px;
+  margin-left: 20px;
+
+}
+
+.label {
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+input[type="checkbox"] {
+  position: relative;
+  right: 15px;
+  
+}
+
+.SelectID {
+  border: solid 1px rgb(167, 163, 163);
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.Graph {
+  width: 70%;
+  height: 70%;
+  margin-left: -70px;
+}
